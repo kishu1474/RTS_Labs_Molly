@@ -23,8 +23,16 @@ For the input, I just gave static values, but we can do it dynamically as well. 
 Please find the Java code in the same repository. 
 
 
-(2) 
+(2) Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g. “MyString” rotated by 2 is “ngMyStri”.
+
+<-- Ans -->
+For this question, we just need to detach the last 'input value' characters from the string and append that in the front of the string.
+Because, ultimately, we are doing the right rotation. And for that we need to rotate 'input value' characters and append them in the front.
+So, insted of running the loop for 'input value' times, we can just cut and paste the substring.
+
+Again for the input, we can use user input, but I did with static input for the demonstration. 
+Please find the Java code in the same repository.
 
 
-
+(3) 
 
