@@ -34,5 +34,22 @@ Again for the input, we can use user input, but I did with static input for the 
 Please find the Java code in the same repository.
 
 
-(3) 
+(3) If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+<-- Ans -->
+This is a nice one. 
+For me, I appreciate the framework concept that we have in software world. It just makes things easy for us to develop new creative stuff. And frameworks keep changing by themselves as well.
+So, my vote for this question would go for the language.
+I just love Java. And they added pretty awesome features in Java 8 update and many of them were already introduced in other languages as well.
+So, Java is also evolving to sustain its place in this modern software world.
+But when we work with model classes in our applications, the main thing that I don't like is to generate getters and setters for all private variables.
+It is true that Java provides us the generator feature so we don't need to write them by our own. But it is obvious that we have to implement getters and setters for private variables. So, why not just include this property in-built by default for every private variable!
+Because the thing is, when we work on a project in real world, model class might have 30-40 variables. And to generate getters and setters for them will create a lot of lines of code for just a single model class!
+
+So, basically, I would love to see this change in the future updates.
+
+
+Thank you for reading.
+
+
 
